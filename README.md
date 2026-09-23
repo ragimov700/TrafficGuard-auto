@@ -40,5 +40,5 @@ curl -fsSL https://raw.githubusercontent.com/ragimov700/TrafficGuard-auto/refs/h
 - для запуска меню мониторинга используйте:
 
 ```bash
-rknpidor
+tguard
 ```
